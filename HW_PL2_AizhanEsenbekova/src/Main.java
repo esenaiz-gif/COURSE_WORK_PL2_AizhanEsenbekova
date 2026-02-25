@@ -141,5 +141,6 @@ public class Main {
         if (!t2.isCompletedValue()) remaining += t2.getEstimatedHoursValue();
 
         System.out.println("Remaining estimated hours: " + remaining);
+        System.out.println("Remaining estimated hours: " + remaining);
     }
 }
